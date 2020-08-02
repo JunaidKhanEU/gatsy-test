@@ -1,0 +1,13 @@
+.blog {
+  background: purple;
+}
+
+.blog h1 {
+  text-transform: capitalize;
+  color: white;
+}
+
+.text {
+  color: darkgoldenrod;
+  font-size: large;
+}
